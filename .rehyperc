@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["@shikijs/rehype", {"themes": {
+      "light": "gruvbox-light-hard",
+      "dark": "gruvbox-dark-hard"
+    }}]
+  ]
+}
